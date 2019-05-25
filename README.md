@@ -21,12 +21,14 @@ The GoomWave project is an attempt to make a versatile, hackable, and simple LED
 
 #### General soldering supplies:
 * Rosin core solder - https://www.amazon.com/dp/B075WB98FJ/ref=cm_sw_em_r_mt_dp_U_mhrYCbXXBJW74
-* Flux pen -
+* Flux pen - https://www.amazon.com/Kester-83-1000-0186-Mildly-Activated-Lead-Bearing/dp/B005T8OR4I
 * Flush cutters - https://www.amazon.com/dp/B07CMXH3N9/ref=cm_sw_em_r_mt_dp_U_ZfrYCb8XJSSAA
 * Pliers - https://www.amazon.com/dp/B000A0OW2M/ref=cm_sw_em_r_mt_dp_U_JgrYCbVDJTSBV
-* Soldering iron -
-* Solder sucker/Copper braid
-* Tinning flux
+* Soldering iron - https://www.amazon.com/gp/product/B00ANZRT4M/
+* Solder sucker/Copper braid - https://www.amazon.com/gp/product/B002MJMXD4/
+* Tinning flux - https://www.amazon.com/Oatey-Company-30374-1-7-Flux/dp/B001B0A3OQ/ref=sr_1_5
+(also check out the FIRES guide to soldering for those new to soldering)
+https://firescc.com/soldering-resources
 
 ### Other supplies:
 * Hot glue gun + sticks
