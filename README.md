@@ -27,7 +27,7 @@ The GoomWave project is an attempt to make a versatile, hackable, and simple LED
 * Soldering iron - https://www.amazon.com/gp/product/B00ANZRT4M/
 * Solder sucker/Copper braid - https://www.amazon.com/gp/product/B002MJMXD4/
 * Tinning flux - https://www.amazon.com/Oatey-Company-30374-1-7-Flux/dp/B001B0A3OQ/ref=sr_1_5
-(also check out the FIRES guide to soldering for those new to soldering)
+* (also check out the FIRES guide to soldering for those new to soldering)
 https://firescc.com/soldering-resources
 
 ### Other supplies:
