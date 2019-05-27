@@ -1,7 +1,7 @@
 # GoomWave
 
 The making of this and many other controller projects are livestreamed on my channel
-twitch.tv/goomysmash. If you'd like to show your appreciation for the work that went into this project please subscribe!
+https://www.twitch.tv/goomysmash. If you'd like to show your appreciation for the work that went into this project please subscribe!
 
 The GoomWave project is an attempt to make a versatile, hackable, and simple LED library for GameCube controller modders looking to make cool LED animations.
 
