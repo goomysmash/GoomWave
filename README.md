@@ -1,3 +1,5 @@
+#### Make sure before uploading to also download the FastLED library or your code won't compile!
+
 # GoomWave
 
 The making of this and many other controller projects are livestreamed on my channel
